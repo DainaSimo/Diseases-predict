@@ -1,13 +1,13 @@
-Diseases predict
+#Diseases predict
 Le projet Diseases Predict a été conçu dans le cadre de la compétition TECHWOMEN FACTORY CHAMPION en 2022, par mon équipe et moi. Nous avons occupé la troisième place à l’issu de la compétition.
 
-Contexte et problème
+#Contexte et problème
 Le diagnostic différentiel des maladies érythémato-squameuses est un véritable problème en dermatologie. Elles partagent toutes les caractéristiques cliniques de l'érythème et de la desquamation, avec très peu de différences. Les maladies de ce groupe sont le psoriasis, la dermatite séboréique, le lichen plan, le pityriasis rosea, la dermatite chronique et le pityriasis rubra pilaris. Une biopsie est généralement nécessaire pour établir le diagnostic, mais ces maladies partagent malheureusement de nombreuses caractéristiques histopathologiques. Une autre difficulté du diagnostic différentiel réside dans le fait qu'une maladie peut présenter les caractéristiques d'une autre maladie au stade initial et en présenter les caractéristiques aux stades suivants.
 
-Objectif du projet
+#Objectif du projet
 L’objectif du projet c’est de facilité le diagnostic de ces maladies présentant les memes caractérisques, de faciliter la tache aux medecins, en concevant un modèle de machine learning qui prédire avec précision de quelle maladie souffre un patient. 
 
-Caractéristique du jeu de données
+#Caractéristique du jeu de données
 Le jeu de données pour ce projet est constitué de 34 variables, dont 12 sont des variables cliniques à savoir : 
 •	Erythema, 
 •	Scaling,
